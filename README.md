@@ -3,8 +3,8 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/reni4ka/reni4ka/assets/166394584/52fa25bb-9c2e-402c-8ec6-3dd161c7d9dd">
 
 ---
-→ Call me Ren<br>
-→ Chembio fan number one<br>
+→ Call me Lordartez or Lord<br>
+→ Hate Antichrist one<br>
 → Not a coder tbh<br>
 → Artist, fifty-fifty spriter<br>
 → BB-Code guru<br>
