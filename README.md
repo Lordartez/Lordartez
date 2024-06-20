@@ -1,6 +1,6 @@
 ![4E3sbPcvFHw66](https://github.com/reni4ka/reni4ka/assets/166394584/7458232b-200c-4818-980b-ab45d4834f7b)
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/reni4ka/reni4ka/assets/166394584/52fa25bb-9c2e-402c-8ec6-3dd161c7d9dd">
+<img hight="400" width="500" alt="GIF" align="right" src="[https://github.com/reni4ka/reni4ka/assets/166394584/52fa25bb-9c2e-402c-8ec6-3dd161c7d9dd](https://cdn.discordapp.com/attachments/1106728912865738752/1253429069043732490/Synthebest.png?ex=6675d249&is=667480c9&hm=db1fede19664b0ed49f11f72c9647522884cf20d2d28059b147406c201e2cf79&)">
 
 ---
 → Call me Lordartez or Lord<br>
@@ -19,6 +19,5 @@
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reni4ka&theme=transparent&show_icons=true)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reni4ka&layout=compact)  | So...
 
 <!---
-reni4ka/reni4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+FUCK THE RULES
 --->
