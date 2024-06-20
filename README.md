@@ -8,7 +8,7 @@
 → Sex? I hate sex<br>
 → Artist, I can draw all sorts of naughty things<br>
 → Know HTML&CSS and Python<br>
-→ Trying to not to kill myself C#<br>
+→ Trying to not to kill myself<br>
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/307835379971653642)
 
@@ -16,7 +16,7 @@
 
 | ---  | --- | --- |
 | ------------- | ------------- | ------------- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reni4ka&theme=transparent&show_icons=true)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reni4ka&layout=compact)  | maybe later ฅ^•ﻌ•^ฅ
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reni4ka&theme=transparent&show_icons=true)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reni4ka&layout=compact)  | So...
 
 <!---
 reni4ka/reni4ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
