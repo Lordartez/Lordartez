@@ -4,14 +4,13 @@
 
 ---
 → Call me Lordartez or Lord<br>
-→ Hate Antichrist one<br>
-→ Not a coder tbh<br>
-→ Artist, fifty-fifty spriter<br>
-→ BB-Code guru<br>
-→ Know a little HTML&CSS<br>
-→ Trying to learn C#<br>
+→ Hate Antichrist<br>
+→ Sex? I hate sex<br>
+→ Artist, I can draw all sorts of naughty things<br>
+→ Know HTML&CSS and Python<br>
+→ Trying to not to kill myself C#<br>
 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/502891268385406986)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/307835379971653642)
 
 ---
 
