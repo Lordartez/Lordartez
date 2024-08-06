@@ -16,7 +16,7 @@
 
 | ---  | --- | --- |
 | ------------- | ------------- | ------------- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reni4ka&theme=transparent&show_icons=true)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reni4ka&layout=compact)  | So...
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lordartez&theme=transparent&show_icons=true)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordartez&layout=compact)  | So...
 
 <!---
 FUCK THE RULES
